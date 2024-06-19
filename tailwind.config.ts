@@ -8,6 +8,8 @@ const config: Config = {
   ],
   theme: {
     colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
       emerald: {
         '50': '#ebfef3',
         '100': '#d0fbe1',
